@@ -1,0 +1,22 @@
+{
+  "name": "playcanvas-get-position",
+  "version": "1.0.0",
+  "description": "Returns the world position for a pc.Vec3 or and Entity in PlayCanvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whydoidoit/position.git"
+  },
+  "keywords": [
+    "PlayCanvas"
+  ],
+  "author": "Mike Talbot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whydoidoit/position/issues"
+  },
+  "homepage": "https://github.com/whydoidoit/position#readme"
+}
